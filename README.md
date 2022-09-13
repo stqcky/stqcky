@@ -14,7 +14,7 @@
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/stqcky)
 [![Aimware](https://img.shields.io/badge/AIMWARE-a?color=e85454&style=for-the-badge)](https://aimware.net/forum/user/218912)
-
+[![Primordial](https://img.shields.io/badge/PRIMORDIAL-a?color=e2b5c7&style=for-the-badge)](https://primordial.dev/members/stacky.3877/)
 
 - Discord - stacky#6580
 
