@@ -1,16 +1,23 @@
-### Hi there 👋
+## My projects
 
-<!--
-**stqcky/stqcky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AIMWARE
+- [**Movement Recorder**](https://github.com/stqcky/Aimware-Recorder) - records movement and plays it back
+- [**DesyncPlus**](https://github.com/stqcky/DesyncPlus) - highly customizable antiaim builder
+- [**Language Server**](https://github.com/stqcky/aimware-language-server) - Lua Language Server for the AIMWARE LUA API
+- [**VSCode Extension**](https://github.com/stqcky/vscode-aimware) - an extension for VSCode utilizing the aforementioned Language Server
+- [**and more...**](https://github.com/stqcky/AimwareScripts)
 
-Here are some ideas to get you started:
+### Primordial
+- [**Some of my AIMWARE scripts ported to Primordial**](https://github.com/stqcky/primordial-luas)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact & Socials
+
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/stqcky)
+
+- Discord - stacky#6580
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stqcky&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=stqcky&style=for-the-badge)
